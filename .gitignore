@@ -1,0 +1,4 @@
+node_modules/
+db/zonescore.db
+.env
+*.log
